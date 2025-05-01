@@ -30,6 +30,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![Parrot](https://img.shields.io/badge/Parrot%20Linux-1f1f1f?style=for-the-badge&logo=parrot-security&logoColor=white)
 ![Pentoo](https://img.shields.io/badge/Pentoo-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=red)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
@@ -37,13 +38,18 @@
 ![Devuan](https://img.shields.io/badge/Devuan-6149D3?style=for-the-badge&logo=debian&logoColor=white)
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
+![Artix](https://img.shields.io/badge/Artix-1677A8?style=for-the-badge&logo=artix-linux&logoColor=white)
 ![Plan 9](https://img.shields.io/badge/Plan%209-black?style=for-the-badge&logo=proxmox&logoColor=white)
-![Puppy Linux](https://img.shields.io/badge/Puppy_Linux-7CBB00?style=for-the-badge&logo=puppylinux&logoColor=white)
+![Raspbian](https://img.shields.io/badge/Raspbian-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Linux Lite](https://img.shields.io/badge/Linux_Lite-4F7AB7?style=for-the-badge&logo=linux&logoColor=white)
-![Knoppix](https://img.shields.io/badge/Knoppix-003399?style=for-the-badge&logo=gnu-linux&logoColor=white)
+![OpenWRT](https://img.shields.io/badge/OpenWRT-1F8DD6?style=for-the-badge&logo=openwrt&logoColor=white)
 ![KISS Linux](https://img.shields.io/badge/KISS_Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Garuda Linux](https://img.shields.io/badge/Garuda_Linux-8A1538?style=for-the-badge&logo=garuda-linux&logoColor=white)
+![Armbian](https://img.shields.io/badge/Armbian-EF4E22?style=for-the-badge&logo=arm&logoColor=white)
 ![BackTrack](https://img.shields.io/badge/BackTrack-DD1B16?style=for-the-badge&logo=linux&logoColor=white)
+![MikroTik OS](https://img.shields.io/badge/MikroTik%20OS-AA0000?style=for-the-badge&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-005073?style=for-the-badge&logoColor=white)
+
 
 ---
 
