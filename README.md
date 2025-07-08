@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=ff79c6&center=false&vCenter=false&width=700&lines=👋+Hey+there%2C+I'm+%40shitodcy;👋+こんにちは、私は+%40shitodcy+です)](https://github.com/shitodcy)
 
 
-[📄 Read Profile](https://shitodcy.github.io/portfolio/)
+[📄 Read Profile](https://lazybear.my.id)
 
 
 ---
