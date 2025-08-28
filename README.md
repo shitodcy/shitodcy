@@ -5,18 +5,6 @@
 
 
 ---
-
-## ⚙️ Programming Languages ​​That I Can Use
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
----
-
 ## 📊 Some GitHub Vibes
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shitodcy&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shitodcy&layout=compact&theme=tokyonight)
@@ -49,10 +37,3 @@
 ![BackTrack](https://img.shields.io/badge/BackTrack-DD1B16?style=for-the-badge&logo=linux&logoColor=white)
 ![MikroTik OS](https://img.shields.io/badge/MikroTik%20OS-AA0000?style=for-the-badge&logoColor=white)
 ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-005073?style=for-the-badge&logoColor=white)
-
-
----
-
-## 🎲 Random Dev Worlds
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff79c6&center=false&vCenter=false&width=700&lines=Shryrq+ol+vfbzavzn%2C+cbjreerq+ol+pbssrr.;Fueled+by+insomnia%2C+powered+by+coffee.)](https://github.com/shitodcy)
-
