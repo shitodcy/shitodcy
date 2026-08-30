@@ -1,39 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=ff79c6&center=false&vCenter=false&width=700&lines=👋+Hey+there%2C+I'm+%40shitodcy;👋+こんにちは、私は+%40shitodcy+です)](https://github.com/shitodcy)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=ff79c6&center=true&vCenter=true&width=700&lines=+Hey+there%2C+I'm+%40shitodcy;+こんにちは、私は+%40shitodcy+です)](https://github.com/shitodcy)
 
-[📄 Read Profile](https://shitodcy.github.io/portfolio)
+</div>
 
+<p align="center">
+  <img src="./images/bg.png" alt="Header Image" />
+  <br><br>
+  
+  <a href="https://shitodcy.github.io/portfolio" title="View My Portfolio">
+  <img src="https://cdn.simpleicons.org/Linux/FFFF" width="35" alt="Portfolio Icon" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/arya-putra-bahari-698632242/" title="Connect with me on LinkedIn">
+  <img src="https://github.com/user-attachments/assets/1731e00d-967b-472c-aae4-abcac869870b"  width="35"/>
+  </a>
+  
+</p>
 
----
-## 📊 Some GitHub Vibes
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shitodcy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shitodcy&layout=compact&theme=tokyonight)
+# About Me
+- Currently focused on the Linux kernel, hardware, and related areas.
+- I am not yet satisfied with where I stand.
+- I will continue to grow.
+- I am an introvert.
 
----
+# Current Interests
+- Backend development and home labs.
+- Factory defaults? Not for me—I value freedom.
+- Building hardware and using Linux-based operating systems.
 
-## 🖥️ Operating Systems I Have Used
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu_(currently_using)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux_(currently_using)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
-![Parrot](https://img.shields.io/badge/Parrot%20Linux-1f1f1f?style=for-the-badge&logo=parrot-security&logoColor=white)
-![Pentoo](https://img.shields.io/badge/Pentoo-000000?style=for-the-badge&logo=linux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=red)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Devuan](https://img.shields.io/badge/Devuan-6149D3?style=for-the-badge&logo=debian&logoColor=white)
-![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?style=for-the-badge&logo=openbsd&logoColor=black)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
-![Artix](https://img.shields.io/badge/Artix-1677A8?style=for-the-badge&logo=artix-linux&logoColor=white)
-![Plan 9](https://img.shields.io/badge/Plan%209-black?style=for-the-badge&logo=proxmox&logoColor=white)
-![Raspbian](https://img.shields.io/badge/Raspbian-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Linux Lite](https://img.shields.io/badge/Linux_Lite-4F7AB7?style=for-the-badge&logo=linux&logoColor=white)
-![OpenWRT](https://img.shields.io/badge/OpenWRT-1F8DD6?style=for-the-badge&logo=openwrt&logoColor=white)
-![KISS Linux](https://img.shields.io/badge/KISS_Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Armbian](https://img.shields.io/badge/Armbian-EF4E22?style=for-the-badge&logo=arm&logoColor=white)
-![BackTrack](https://img.shields.io/badge/BackTrack-DD1B16?style=for-the-badge&logo=linux&logoColor=white)
-![MikroTik OS](https://img.shields.io/badge/MikroTik%20OS-AA0000?style=for-the-badge&logoColor=white)
-![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-005073?style=for-the-badge&logoColor=white)
+# Devices & Operating Systems
+
+- ROG Strix G614JU | EndeavourOS Linux 
+- Thinkpad X260 | Arch Linux
+- Thinkcentre m710q | Ubuntu Server
+- Oppo A37F | PostmarketOS 
