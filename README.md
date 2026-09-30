@@ -28,6 +28,7 @@
 - Backend development and home labs.
 - Factory defaults? Not for me—I value freedom.
 - Building hardware and using Linux-based operating systems.
+- I am currently very interested in hardware hacking, particularly firmware extraction.
 
 # Devices & Operating Systems
 
