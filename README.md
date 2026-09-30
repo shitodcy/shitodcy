@@ -35,4 +35,5 @@
 - ROG Strix G614JU | EndeavourOS Linux 
 - Thinkpad X260 | Arch Linux
 - Thinkcentre m710q | Ubuntu Server
-- Oppo A37F | PostmarketOS 
+- Oppo A37F | PostmarketOS
+- Redmi 9C | lineage os 23 android 16
